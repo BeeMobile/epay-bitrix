@@ -1,0 +1,11 @@
+02.03.2015 11:27:54
+Kkb request: 
+Signed_Order_B64: PGRvY3VtZW50PjxtZXJjaGFudCBjZXJ0X2lkPSIwMEMxODJCMTg5IiBuYW1lPSJUZXN0IHNob3AiPjxvcmRlciBvcmRlcl9pZD0iMDAwMDUzIiBhbW91bnQ9IjEyODkuMzY2NjY2NjY2NyIgY3VycmVuY3k9IjM5OCI+PGRlcGFydG1lbnQgbWVyY2hhbnRfaWQ9IjkyMDYxMTAxIiBhbW91bnQ9IjEyODkuMzY2NjY2NjY2NyIvPjwvb3JkZXI+PC9tZXJjaGFudD48bWVyY2hhbnRfc2lnbiB0eXBlPSJSU0EiPmpKNkpvSXhsRldySVJ5Q0xzczU2c2sxeTkwTjExa1E3cTI4R2Y5ZUVDNUpMTDUrYytvZzk4QUxxTlhPcXk1R1BhS1o5WlpqTEtKSWN6enF1b2Y2SWVnPT08L21lcmNoYW50X3NpZ24+PC9kb2N1bWVudD4=
+Language: rus
+BackLink: http://bitrix.lcl/personal/order/
+FailureBackLink: http://bitrix.lcl/personal/order/
+PostLink: http://7243f9e1.ngrok.com/bitrix/tools/result_kkb.php?order_id=53
+
+02.03.2015 11:28:16
+_receivedNotification: response:<document><bank name="Kazkommertsbank JSC"><customer name="cdsa csdacdsa" mail="" phone=""><merchant cert_id="00C182B189" name="null"><order order_id="000053" amount="1289.3666666667" currency="398"><department merchant_id="92061101" amount="1289.3666666667"/></order></merchant><merchant_sign type="RSA"/></customer><customer_sign type="RSA"/><results timestamp="2015-03-02 17:28:11"><payment merchant_id="92061101" card="440564-XX-XXXX-6150" amount="1289.3666666667" reference="150302172811" int_reference="FA20150302172811" approval_code="172811" response_code="00" Secure="Yes" card_bin="KAZ" c_hash="13988BBF7C6649F799F36A4808490A3E"/></results></bank><bank_sign cert_id="00C18327E8" type="SHA/RSA">DP9q3zG42ViZzon7Yj+oqEkZHE78n1asG/M2imw4iR5H/UBujd00hzfjKAXVD1diPbxbU082pOQipzdJc5Ix9Xw/AmjwzJe8WDghOy7slXCBuZZUSu3/PLGnqb+Im0gORbaTBCOTLG+dwSnrdAHEp/80hzd56enHtnnH1cb5r4w=</bank_sign></document>
+
